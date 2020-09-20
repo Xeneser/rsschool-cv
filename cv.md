@@ -9,4 +9,4 @@ In high school, I was interested in computer hardware, helped friends upgrade th
 ### **Education**
 I've graduated the radio engineering College in 2010. I have been studying Hexlet, HTML Academy online courses recently.
 ### **English**
-My English level is A2-B1.
+I'm interested in learning English. My English level is A2-B1.
