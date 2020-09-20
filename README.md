@@ -1,1 +1,0 @@
-https://Xeneser.github.io/rsschool-cv/cv
